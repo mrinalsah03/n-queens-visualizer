@@ -2,6 +2,11 @@
 Queen Ascent is a classic N × N chessboard backtracking visualizer designed to help you understand how the N-Queens problem is solved step by step using recursion and backtracking.
 This project focuses on learning through visualization, making it easier to understand how the algorithm explores, places, and backtracks while trying to find valid configurations.
 
+📸Overview
+## 📸 Screenshot
+
+![Queen Ascent](overviewofNqueen.png)
+
 🧠 About the Problem
 The N-Queens problem is a classic backtracking challenge where the goal is to place N queens on an N × N chessboard such that no two queens attack each other.
 A queen can attack in:
