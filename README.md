@@ -4,7 +4,9 @@ This project focuses on learning through visualization, making it easier to unde
 
 📸 Screenshot
 
-![Queen Ascent](./assets/overview-of-n-queen.png)
+## 📸 Screenshot
+
+![Queen Ascent](./overview-of-n-queen.png)
 
 🧠 About the Problem
 The N-Queens problem is a classic backtracking challenge where the goal is to place N queens on an N × N chessboard such that no two queens attack each other.
